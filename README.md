@@ -1,5 +1,5 @@
 # Face-finder
-It can be used to find the faces in  newspaper using keywords in the specific page
+It can be used to find the faces in  newspaper using keywords in the pages
 
 The cascade classifier should be downloaded from the link:
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
